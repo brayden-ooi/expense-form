@@ -1,0 +1,10 @@
+.swipeItem {
+  position: relative;
+  overflow: hidden;
+}
+
+.swipeItem-content {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
